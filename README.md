@@ -15,7 +15,7 @@
 
 
 ### About me ...!  
-***I am a front-end developer and a student. I am currently learning JavaScript and Csharp and would be happy if you could ask me about my skills 📺 📌***  
+***I am a front-end developer and a student. I am currently learning JavaScript and Python and would be happy if you could ask me about my skills 📺 📌***  
   
 
 <br/>  
