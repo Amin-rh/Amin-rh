@@ -2,7 +2,7 @@
   
 
 ### About me ...!  
-***I'm a programmer 📺 📌***  
+***I am Amin, a small computer student and I have been programming since I was 17 years old, I have a relatively good command of computers and their equipment.      Currently, I freely create various projects and increase my skills and share them on my Git Hub page.   Of course, I started working on GitHub a bit late, but doing something now is better than never doing it (ZenPy.15). 📺 📌***  
 
 ## Languages and Tools  
 <div align="center">  
