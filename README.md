@@ -11,10 +11,10 @@ a small computer student and I have been programming since I was 17 years old, I
 
 ### Python Developer  
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="100" width="545"/></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="100%">
 
 
 
