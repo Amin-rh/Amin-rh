@@ -1,8 +1,9 @@
 ## <div align="center"> Hey 👋, I'm Amin hallaji !  </div>
 
 <div align="center">
-
-**a small computer student and I have been programming since I was 17 years old, I have a relatively good command of computers and their equipment.      Currently, I freely create various projects and increase my skills and share them on my Git Hub page.   Of course, I started working on GitHub a bit late, but doing something now is better than never doing it (ZenPy.15).**
+**Hi there! I'm a 20-year-old computer science student with a passion for programming and technology.**
+I started coding at 17 and have since been exploring both frontend and backend development, especially using Python and web technologies. I enjoy building personal projects to sharpen my skills and share them on GitHub as I grow.
+Although I joined GitHub a bit later than I wanted, I'm a firm believer that starting now is always better than never — and I'm excited to keep learning and creating every day.
 </div>
 
 ## <div align="center"> Python Developer </div>
